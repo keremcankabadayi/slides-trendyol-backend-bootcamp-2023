@@ -1,0 +1,8 @@
+stage:
+  couchbase:
+    username: Administrator
+    password: password
+    connectionURI: "couchbase://127.0.0.1"
+    bucketName: "Backend_Bootcamp"
+    timeout: 1s
+    maxRetry: 3
