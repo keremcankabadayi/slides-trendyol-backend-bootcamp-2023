@@ -1,1 +1,1 @@
-Check README inside folders.
+Check READMEs inside folders.
